@@ -1,0 +1,21 @@
+{
+    "name": "huikedev/es_orm",
+    "description": "elastic search client",
+    "type": "think-extend",
+    "license": "APACHE-2.0",
+    "authors": [
+        {
+            "name": "liuqiandev",
+            "email": "310227477@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "huikedev\\es_orm\\": "src"
+        }
+    }
+}
